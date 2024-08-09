@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm DharunDarsan <br><br>- 🔭 I’m pre final year student<br>- 📚 I'm currently learning flutter<br>- ⚡ In my free time I play badminton</p>
+<p align="left">I'm DharunDarsan <br><br>- 🔭 I’m pre final year student<br>- 📚 I'm currently learning React Native<br>- ⚡ In my free time I play badminton</p>
 
 ###
 
